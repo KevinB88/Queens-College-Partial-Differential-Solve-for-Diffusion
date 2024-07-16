@@ -1,0 +1,6 @@
+  mass_data_filepath = "/Users/kbedoya88/Desktop/PROJECTS24/PyCharm/Theoretical-Biophysics/Bedoya-Kogan-Algorithm-Python/Algorithm-Version-VI/tabulate/mass_data"
+    central_densities_filepath = "/Users/kbedoya88/Desktop/PROJECTS24/PyCharm/Theoretical-Biophysics/Bedoya-Kogan-Algorithm-Python/Algorithm-Version-VI/tabulate/central_densities"
+    domain_density_filepath = "/Users/kbedoya88/Desktop/PROJECTS24/PyCharm/Theoretical-Biophysics/Bedoya-Kogan-Algorithm-Python/Algorithm-Version-VI/tabulate/domain_density"
+    mass_loss_data_filepath = "/Users/kbedoya88/Desktop/PROJECTS24/PyCharm/Theoretical-Biophysics/Bedoya-Kogan-Algorithm-Python/Algorithm-Version-VI/tabulate/mass_loss_data"
+
+    playsound("/Users/kbedoya88/Desktop/PROJECTS24/PyCharm/Theoretical-Biophysics/Bedoya-Kogan-Algorithm-Python/Algorithm-Version-VI/Sound/609336__kenneth_cooney__completed.wav")
